@@ -26,6 +26,8 @@ Current State: Build Computation Graph
 
 Useful Notes: [TVM-Learning](TVM-Learning.md)
 
+Using Jupyter to develop Ascend TVM: [demo_sqrt.ipynb](./demo_sqrt.ipynb)
+
 頑張って！
 
 ---------
